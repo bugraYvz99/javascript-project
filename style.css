@@ -1,0 +1,11 @@
+/* styles.css */
+html {
+    height: 100%;
+    margin: 0;
+}
+
+#main-content {
+    padding: 15px;
+    height: 100vh;
+    background-color: lightgray; /* Add your background color or other styles */
+}
